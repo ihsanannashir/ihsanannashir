@@ -3,6 +3,8 @@ Highly ambitious and aspiring frontend developer based in Indonesia.
 
 - 👨🏻‍💻 I’m currently learning Frontend Development with **NextJS**
 - 📫 Reach me at ihsanannashir@gmail.com
+
+![](https://komarev.com/ghpvc/?username=ihsanannashir)
 <!--
 **ihsanannashir/ihsanannashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
