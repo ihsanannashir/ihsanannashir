@@ -1,8 +1,9 @@
 ### Hi 👋 It's me, Ihsan!
 Highly ambitious and aspiring frontend developer based in Indonesia.
 
-- 👨🏻‍💻 I’m currently learning Web Development with **NextJS** and **GraphQL**
+- 👨🏻‍💻 I’m currently learning Web Development with **NextJS**
 - 📫 Reach me at ihsanannashir@gmail.com or my [Linkedin](https://linkedin.com/in/ihsanannashir)
+- 🔭 check out my web at [ihsanannashir.dev](https://ihsanannashir.dev)
 
 ![](https://komarev.com/ghpvc/?username=ihsanannashir)
 <!--
