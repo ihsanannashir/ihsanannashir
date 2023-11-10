@@ -1,7 +1,6 @@
 ### Hi 👋 It's me, Ihsan!
-Highly ambitious and aspiring frontend developer based in Indonesia.
+Highly ambitious and aspiring web developer based in Indonesia.
 
-- 👨🏻‍💻 I’m currently learning Web Development with **NextJS**
 - 📫 Reach me at ihsanannashir@gmail.com or my [Linkedin](https://linkedin.com/in/ihsanannashir)
 - 🔭 check out my works at [ihsanannashir.dev](https://ihsanannashir.dev)
 
