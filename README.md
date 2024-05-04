@@ -3,7 +3,8 @@ Highly ambitious and aspiring web developer based in Indonesia.
 
 - 📫 Reach me at ihsanannashir@gmail.com or my [Linkedin](https://linkedin.com/in/ihsanannashir)
 - 🔭 check out my works at [ihsanannashir.dev](https://ihsanannashir.dev)
-- Hit me for anything!
+- 👨🏻‍💻 Open for any Freelance Web Project
+- - Hit me for anything!
 
 ![](https://komarev.com/ghpvc/?username=ihsanannashir)
 <!--
